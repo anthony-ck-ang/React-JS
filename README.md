@@ -7,7 +7,7 @@ https://codepen.io/sgrider/pen/yRWZEq
 Dependencies:
 Add React and ReactDOM libraries
 
-Settings -> Under 'Add External Scripts/Pens', search for React and add the two libraries accordingly.
+Settings -> Under 'Add External Scripts/Pens' -> Search for 'React' and add the two libraries accordingly.
 
 file extensions:
 .html

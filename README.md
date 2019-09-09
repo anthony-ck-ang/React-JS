@@ -11,5 +11,5 @@ Settings -> Under 'Add External Scripts/Pens' -> Search for 'React' and add the 
 
 
 -------------------------------------
-React defines components and make them work together
-ReactDOM takes a component and render it in the DOM (HTMl)
+- React defines components and make them work together
+- ReactDOM takes a component and render it in the DOM (HTMl)

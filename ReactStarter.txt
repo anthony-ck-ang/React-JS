@@ -36,10 +36,11 @@ class App extends React.Component {
   }
 
   render() {
-    return <div onMouseMove={this.onMouseMove}>
+    return (
+      <div onMouseMove={this.onMouseMove}>
        <div className="panel" style={this.state.styleOne} />
        <div className="panel" style={this.state.styleTwo} />
-     </div>
+     </div>);
   }
 }
 

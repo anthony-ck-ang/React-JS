@@ -56,6 +56,11 @@ Install/Update NodeJS -> Install create-react-app -> Generate project -> Build p
    - Start app: npm start
    - Stop app: Ctrl + c
    - localhost:3000
+   
+  -----------
+Diff between 'import' and 'require' statement
+Module system - set of rules on how code can be shared between js files
 
-
+ES2015 modules - > 'import'
+CommonJS modules - > 'require'
                                                                       

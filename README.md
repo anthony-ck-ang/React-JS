@@ -69,8 +69,8 @@ Module system - set of rules on how code can be shared between js files
 
 A component IS a 
  - Function or Class 
-	-> produce and show HTML TO user (JSX) 
-	-> handle feedback FROM user (Event handlers)
+	- produce and show HTML TO user (JSX) 
+	- handle feedback FROM user (Event handlers)
 
 
                                                                       

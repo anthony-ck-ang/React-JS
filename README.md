@@ -38,5 +38,20 @@ Install/Update NodeJS -> Install create-react-app -> Generate project -> Build p
    - ES2016-19 - poor support
 
    Babel(es201X[jsFile, jsFile]) -> returns es5J[jsFile, jsFile] -> load properly on almost any browser
+   
+   
+4. Open the project in any editor (eg: atom/sublime/VS editor)
+
+   project dir
+   -----------
+   folders
+   - src -> written src code
+   - public -> static files eg. imgs or static html
+   - node_modules -> installed project dependencies
+   - packages.json -> records proj dependencies and configurations
+   -package-lock.json -> records exact version of installed packages
+   - README.md -> how to use project instructions
+
+
 
                                                                       

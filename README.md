@@ -19,15 +19,14 @@ Install/Update NodeJS -> Install create-react-app -> Generate project -> Build p
 
 1. cmd -> node -v
    
-   if output == vXX.X.X 
-   else nodejs.org/en/download -> install accordingly
+   if output == vXX.X.X, else nodejs.org/en/download -> install accordingly
 
 2. npm install -g create-react-app
 
-   dir -> mkdir <name> -> cd <name>
+   dir -> mkdir <name> -> cd <dir-name>
    
-   create-react-app <jsx>
+   create-react-app <project-name>
 
    -g (global package install -> enable prg to be run on terminal)
 
-   Alternate cmd: npx create-react-app <project name>   (N.A for < npm v5.2)
+   Alternate cmd: npx create-react-app <project-name>   (N.A for < npm v5.2)

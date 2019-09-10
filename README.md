@@ -18,11 +18,10 @@ Settings -> JavaScript Tab -> Under 'Add External Scripts/Pens' -> Search for 'R
 Install/Update NodeJS -> Install create-react-app -> Generate project -> Build project
 
 1. cmd -> node -v
-if output == vXX.X.X
+if output == vXX.X.X ,
 else nodejs.org/en/download -> install accordingly
 
-2. npm install -g create-react-app
-   dir -> mkdir <name> -> cd <name>
+2. npm install -g create-react-app , dir -> mkdir <name> -> cd <name>
    create-react-app <jsx>
 
    -g (global package install -> enable prg to be run on terminal)

@@ -30,3 +30,14 @@ Install/Update NodeJS -> Install create-react-app -> Generate project -> Build p
    -g (global package install -> enable prg to be run on terminal)
 
    Alternate cmd: npx create-react-app <project-name>   (N.A for < npm v5.2)
+  
+3. React project
+   Behind the scenes lib : Webpack, Babel*, Dev server
+
+   ES5 -support all browser
+   ES2015 -almost all
+   ES2016-19 - poor support
+
+   Babel(es201X[jsFile, jsFile]) -> returns es5J[jsFile, jsFile] -> load properly on almost any browser
+
+                                                                      

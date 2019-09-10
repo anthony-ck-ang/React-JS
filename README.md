@@ -51,7 +51,12 @@ Install/Update NodeJS -> Install create-react-app -> Generate project -> Build p
    - packages.json -> records proj dependencies and configurations
    -package-lock.json -> records exact version of installed packages
    - README.md -> how to use project instructions
-
+   
+5. Terminal
+   cd <project dir/proj>
+   Start app: npm start
+   Stop app: Ctrl + c
+   localhost:3000
 
 
                                                                       

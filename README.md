@@ -59,8 +59,9 @@ Install/Update NodeJS -> Install create-react-app -> Generate project -> Build p
    
   -----------
 Diff between 'import' and 'require' statement
+
 Module system - set of rules on how code can be shared between js files
 
-ES2015 modules - > 'import'
-CommonJS modules - > 'require'
+- ES2015 modules - > 'import'
+- CommonJS modules - > 'require'
                                                                       

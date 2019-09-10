@@ -23,11 +23,11 @@ else nodejs.org/en/download -> install accordingly
 
 2. npm install -g create-react-app
 
-dir -> mkdir <name> -> cd <name>
-create-react-app <jsx>
+    dir -> mkdir <name> -> cd <name>
+    create-react-app <jsx>
 
--g (global package install -> enable prg to be run on terminal)
+    -g (global package install -> enable prg to be run on terminal)
 
-Alternate cmd: 
-npx create-react-app <project name>
-(N.A for < npm v5.2)
+    Alternate cmd: 
+    npx create-react-app <project name>
+    (N.A for < npm v5.2)

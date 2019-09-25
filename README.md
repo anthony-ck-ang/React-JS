@@ -72,5 +72,7 @@ A component IS a
 	- produce and show HTML TO user (JSX) 
 	- handle feedback FROM user (Event handlers)
 
-
+-----------
+	
+![](images/comp_hier_2.PNG)
                                                                       

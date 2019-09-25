@@ -86,13 +86,12 @@ A component IS a
 ![](images/app_card.PNG)
 
 -----------
-semantic ui cdn
-https://semantic-ui.com/
-https://cdnjs.com/libraries/semantic-ui
-https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css
+semantic ui cdn:
+- https://semantic-ui.com/
+- https://cdnjs.com/libraries/semantic-ui
 
 add in head tag:
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
+- https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css
 
 https://github.com/marak/Faker.js/
 npm install --save faker

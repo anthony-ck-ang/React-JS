@@ -73,7 +73,10 @@ A component IS a
 	- handle feedback FROM user (Event handlers)
 
 -----------
-	
+
+
+![](images/props.PNG)
+
 ![](images/comp_hier_2.PNG)
 
 ![](images/comments_mockup.PNG)

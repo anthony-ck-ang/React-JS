@@ -75,6 +75,7 @@ A component IS a
 -----------
 	
 ![](images/comp_hier_2.PNG)
-![](images/app_card.PNG)
 ![](images/comments_mockup.PNG)
+![](images/app_card.PNG)
+
                                                                       

@@ -74,6 +74,7 @@ A component IS a
 
 -----------
 
+![](images/comp_rs_diagram1.PNG)
 
 ![](images/props.PNG)
 

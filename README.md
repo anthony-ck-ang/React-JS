@@ -100,9 +100,13 @@ npm install --save faker
 
 ![](images/class_state_seasons/func.PNG)
 ![](images/class_state_seasons/func_class.PNG)
+
 ![](images/class_state_seasons/func_class2.PNG)
+
 ![](images/class_state_seasons/class_benefits.PNG)
+
 ![](images/class_state_seasons/class_rules.PNG)
+
 ![](images/class_state_seasons/state_rules.PNG)
 
 -----------
@@ -110,10 +114,15 @@ npm install --save faker
 ![](images/class_state_seasons/app_mockup.PNG)
 
 ![](images/class_state_seasons/app_challenges.PNG)
+
 ![](images/class_state_seasons/app_flow.PNG)
+
 ![](images/class_state_seasons/geoloc_api_link.PNG)
+
 ![](images/class_state_seasons/simple_app_lifecycle_flow.PNG)
+
 ![](images/class_state_seasons/simple_app_lifecycle_flow2.PNG)
+
 ![](images/class_state_seasons/conditional_rendering_logic.PNG)
 
 

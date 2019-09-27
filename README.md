@@ -110,6 +110,7 @@ npm install --save faker
 ![](images/class_state_seasons/state_rules.PNG)
 
 -----------
+App-related
 
 ![](images/class_state_seasons/app_mockup.PNG)
 

@@ -106,7 +106,9 @@ npm install --save faker
 ![](images/class_state_seasons/state_rules.PNG)
 
 -----------
+
 ![](images/class_state_seasons/app_mockup.PNG)
+
 ![](images/class_state_seasons/app_challenges.PNG)
 ![](images/class_state_seasons/app_flow.PNG)
 ![](images/class_state_seasons/geoloc_api_link.PNG)

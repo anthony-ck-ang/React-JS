@@ -126,6 +126,10 @@ App-related
 
 ![](images/class_state_seasons/conditional_rendering_logic.PNG)
 
+![](images/class_state_seasons/season_logic.PNG)
+
+![](images/class_state_seasons/comp_lifecycle_methods.PNG)
+
 
 
 

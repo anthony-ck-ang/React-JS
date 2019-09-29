@@ -73,7 +73,7 @@ A component IS a
 	- handle feedback FROM user (Event handlers)
 
 -----------
-
+App-1
 
 ![](images/comp_rs_diagram1.PNG)
 
@@ -110,7 +110,7 @@ npm install --save faker
 ![](images/class_state_seasons/state_rules.PNG)
 
 -----------
-App-related
+App-2
 
 ![](images/class_state_seasons/app_mockup.PNG)
 
@@ -131,6 +131,7 @@ App-related
 ![](images/class_state_seasons/comp_lifecycle_methods.PNG)
 
 -----------
+App-3
 
 ![](images/handleUserInputs_forms_events/handle_user_input_req_load_qns.PNG)
 

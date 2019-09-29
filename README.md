@@ -130,7 +130,31 @@ App-related
 
 ![](images/class_state_seasons/comp_lifecycle_methods.PNG)
 
+-----------
 
+![](images/handleUserInputs_forms_events/handle_user_input_req_load_qns.PNG)
+
+![](images/handleUserInputs_forms_events/api_search_req_mockup_v1.PNG)
+
+![](images/handleUserInputs_forms_events/api_search_req_mockup_gridview_v2.PNG)
+
+![](images/handleUserInputs_forms_events/App_challenges.PNG)
+
+![](images/handleUserInputs_forms_events/api_search_req_comp_mockup.PNG)
+
+![](images/handleUserInputs_forms_events/api_search_req_comp_flow1.PNG)
+
+![](images/handleUserInputs_forms_events/event_methods.PNG)
+
+![](images/handleUserInputs_forms_events/userInput_cbk_state_render_flow.PNG)
+
+![](images/handleUserInputs_forms_events/control_vs_uncontrol_elements.PNG)
+
+![](images/handleUserInputs_forms_events/using_react_state_vs_DOM_data_store_fetch.PNG)
+
+![](images/handleUserInputs_forms_events/searchbar_comp_class.PNG)
+
+![](images/handleUserInputs_forms_events/child_to_parent_data_cbk_flow.PNG)
 
 
                                                                       

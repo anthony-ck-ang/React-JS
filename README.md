@@ -157,5 +157,15 @@ App-3
 
 ![](images/handleUserInputs_forms_events/child_to_parent_data_cbk_flow.PNG)
 
+![](images/apiReq/apiReq_diag.PNG)
+
+![](images/apiReq/unsplash_api_url.PNG)
+
+![](images/apiReq/apiReq_comp_diag.PNG)
+
+![](images/apiReq/ajax_req_libs.PNG)
+
+![](images/apiReq/img_req_flow.PNG)
+
 
                                                                       

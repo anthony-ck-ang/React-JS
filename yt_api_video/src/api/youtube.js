@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const KEY = "AIzaSyB50NQz90agwgWK3K8jiadUH5DeIxYSxgE";
+const KEY = "";
 
 export default axios.create({
   baseURL: "https://www.googleapis.com/youtube/v3",

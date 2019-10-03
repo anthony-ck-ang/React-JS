@@ -181,6 +181,45 @@ App-3 v2
 ![](images/pics_gridView_cssv2/poc_app_view2.PNG)
 
 
+-----------
+App-4
+
+![](images/youtube_api_vid_app/yt_vid_app_mockup.PNG)
+
+![](images/youtube_api_vid_app/yt_vid_app_comp_mockup2.PNG)
+
+![](images/youtube_api_vid_app/comp_hierachy.PNG)
+
+![](images/youtube_api_vid_app/google_api_url.PNG)
+
+![](images/youtube_api_vid_app/api_req_diag1.PNG)
+
+![](images/youtube_api_vid_app/comp_to_css_diag2.PNG)
+
+![](images/youtube_api_vid_app/semantic_ui_sample.PNG)
+
+![](images/youtube_api_vid_app/comp_hier_dataflow_callback_detail_1.PNG)
+
+![](images/youtube_api_vid_app/comp_hier_dataflow_callback_detail_2.PNG)
+
+![](images/youtube_api_vid_app/comp_hier_dataflow_callback_detail_3.PNG)
+
+![](images/youtube_api_vid_app/comp_hier_dataflow_callback_detail_4.PNG)
+
+![](images/youtube_api_vid_app/comp_hier_dataflow_callback_detail_5.PNG)
+
+![](images/youtube_api_vid_app/comp_hier_dataflow_callback_detail_6.PNG)
+
+![](images/youtube_api_vid_app/comp_hier_dataflow_callback_detail_7.PNG)
+
+![](images/youtube_api_vid_app/sample_app_img_1.PNG)
+
+![](images/youtube_api_vid_app/sample_app_img_2.PNG)
+
+![](images/youtube_api_vid_app/sample_app_img_3.PNG)
+
+
+
 
 
                                                                       

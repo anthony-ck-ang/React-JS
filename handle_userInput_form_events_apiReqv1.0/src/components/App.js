@@ -15,7 +15,7 @@ class App extends React.Component {
       params: { query: term },
       headers: {
         Authorization:
-          "Client-ID db5626aaf8cff3cc07e758a149030775d432644e8f2fe51909e8a6895361f962"
+          " "
       }
     });
     console.log(response.data.results);
@@ -25,7 +25,7 @@ class App extends React.Component {
     //     params: { query: term },
     //     headers: {
     //       Authorization:
-    //         "Client-ID db5626aaf8cff3cc07e758a149030775d432644e8f2fe51909e8a6895361f962"
+    //         " "
     //     }
     //   })
     //   .then(response => {
